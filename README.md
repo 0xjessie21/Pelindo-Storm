@@ -4,7 +4,7 @@ PelindoStorm is a DDoS (Distributed Denial of Service) tool designed to deliver 
 This tool is equipped with various advanced features such as Stealth Mode and Auto Resolver, which make it more effective in attacking targets while reducing the possibility of being detected by defense systems such as IDS/IPS.
 
 # Screenshot
-![Pelindo Storm](https://github.com/0xjessie21/Pelindo-Storm/blob/main/PelindoStorm.png)
+![Pelindo Storm](https://github.com/0xjessie21/Pelindo-Storm/blob/main/PStorm.png)
 
 | :exclamation:  **Disclaimer**  |
 |---------------------------------|
