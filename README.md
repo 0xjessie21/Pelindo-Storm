@@ -1,2 +1,2 @@
-# Amplification-DDoS
-CVE-2006-0987
+# PelindoStorm DNS Amplification DDoS Tool
+Tool for simulating DNS/NTP/Memcached Amplification attacks via CLI.
