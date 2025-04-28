@@ -39,5 +39,3 @@ pip3 install -r requirements.txt --break-system-packages
 ```
 sudo python3 pelindostorm.py
 ```
-
-https://github.com/0xjessie21/Pelindo-Storm.git
