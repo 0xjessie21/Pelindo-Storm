@@ -2,7 +2,7 @@
 Tool for simulating DNS/NTP/Memcached Amplification DDoS attacks.
 
 # Screenshot
-![Pelindo Storm](https://xxxx)
+![Pelindo Storm](https://github.com/0xjessie21/Pelindo-Storm/blob/main/PelindoStorm.png)
 
 | :exclamation:  **Disclaimer**  |
 |---------------------------------|
