@@ -1,3 +1,5 @@
+[![Python 3.x](https://img.shields.io/badge/python-3.x-yellow.svg)](https://www.python.org/)
+
 # Pelindo Amplification DDoS Tool
 PelindoStorm is a DDoS (Distributed Denial of Service) tool designed to deliver amplification attacks via DNS, NTP, and Memcached protocols. This tool uses amplification techniques to magnify the effect of an attack by sending queries to public servers and utilizing a larger response than the request sent.
 
@@ -25,3 +27,8 @@ This tool is equipped with various advanced features such as Stealth Mode and Au
 
 * Custom Retry for Auto Resolver
   - Provides options to set the number of retries in domain searches to increase attack success.
+
+# Usage
+```
+sudo python3 pelindostorm.py
+```
