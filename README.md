@@ -11,8 +11,17 @@ This tool is equipped with various advanced features such as Stealth Mode and Au
 | This project is primarily built to be used as a standalone CLI tool. **Running this tool as a service may pose security risks.** It's recommended to use with caution and additional security measures. DWYOR |
 
 ## Overview of the tool
+* Amplification Attacks
+  - Supports DNS, NTP, and Memcached based attack methods.
+  - Utilizes amplification techniques to increase traffic volume to the target.
 
-* Select attack method: DNS/NTP/Memcached.
-* Select Mode: Normal Mode (IP spoof) or Safe Mode (without IP spoof).
-* Auto-scan largest domains.
-* Real-time packet statistics.
+* Stealth Mode
+  - Hides attack patterns by randomizing delay times between packets.
+  - Randomizes packet headers such as TTL, IP ID, and UDP source port to avoid detection.
+
+* Auto Resolver
+  - Automatically searches for the best domain for amplification.
+  - No manual input required to select target domains.
+
+* Custom Retry for Auto Resolver
+  - Provides options to set the number of retries in domain searches to increase attack success.
