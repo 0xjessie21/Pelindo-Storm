@@ -28,7 +28,16 @@ This tool is equipped with various advanced features such as Stealth Mode and Au
 * Custom Retry for Auto Resolver
   - Provides options to set the number of retries in domain searches to increase attack success.
 
+# Installation
+```sh
+git clone https://github.com/username/PelindoStorm.git
+cd PelindoStorm
+pip3 install -r requirements.txt --break-system-packages
+```
+
 # Usage
 ```
 sudo python3 pelindostorm.py
 ```
+
+https://github.com/0xjessie21/Pelindo-Storm.git
