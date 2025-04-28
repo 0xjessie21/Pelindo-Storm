@@ -1,5 +1,7 @@
-# Pelindo DDoS Amplification Tool
-Tool for simulating DNS/NTP/Memcached Amplification DDoS attacks.
+# Pelindo Amplification DDoS Tool
+PelindoStorm is a DDoS (Distributed Denial of Service) tool designed to deliver amplification attacks via DNS, NTP, and Memcached protocols. This tool uses amplification techniques to magnify the effect of an attack by sending queries to public servers and utilizing a larger response than the request sent.
+
+This tool is equipped with various advanced features such as Stealth Mode and Auto Resolver, which make it more effective in attacking targets while reducing the possibility of being detected by defense systems such as IDS/IPS.
 
 # Screenshot
 ![Pelindo Storm](https://github.com/0xjessie21/Pelindo-Storm/blob/main/PelindoStorm.png)
