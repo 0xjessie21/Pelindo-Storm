@@ -39,3 +39,8 @@ pip3 install -r requirements.txt --break-system-packages
 ```
 sudo python3 pelindostorm.py
 ```
+
+
+## 📜 License
+
+This project is licensed under the `MIT License`
