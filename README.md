@@ -37,7 +37,7 @@ pip3 install -r requirements.txt --break-system-packages
 
 # CVE-2006-0987 Checker Usage
 ```
-python3 checker-resolver.py -v YOUR_IP_LIST.txt
+python3 checker.py -v YOUR_IP_LIST.txt
 ```
 
 # Pstorm Usage
